@@ -5,7 +5,7 @@
     "category": "tweaks",
     "subcategory": "optimize",
     "price": "$30 | 109 SR",
-    "rating": 0,
+    "rating": 5,
     "store": "7mnyst1",
     "storeLink": "https://example.com",
     "image": "public/images/kenta-logo.png"
@@ -16,7 +16,7 @@
     "category": "cheats",
     "subcategory": "external",
     "price": "$8.00",
-    "rating": 0,
+    "rating": 4.8,
     "store": "MN | Solution",
     "storeLink": "https://mn-solution.sellhub.cx/product/fortnite-private/",
     "image": "public/images/FortnitePrivate.png"
@@ -33,4 +33,5 @@
     "image": "public/images/Sync.top.png"
   }
 ]
+
 
